@@ -1,6 +1,6 @@
 
-My name is Sunil Varma. I live at Hyderabad, India with my wife and son.
-Software Engineer, working at NetEnrich Technologies.
+My name is Sunil Varma. I live at Hyderabad, India with my wife and son.Software Engineer at NetEnrich Technologies.
+
 ![profile_pic]({{ site.url }}/assets/images/sunil_profile_pic.jpg)
 
 ### Interests
@@ -11,7 +11,7 @@ Software Engineer, working at NetEnrich Technologies.
 
 
 ### Contact
-Reach me @ maheswarasunil.s@gmail.com
+Reach me at maheswarasunil.s@gmail.com
 
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/sunil-varma-36b42315/)
